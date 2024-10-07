@@ -49,3 +49,10 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=browished&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/browished/count.svg?"  />
+</div>
+
+###
