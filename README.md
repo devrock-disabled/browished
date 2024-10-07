@@ -63,4 +63,4 @@
 </p>
 
 ### 🌠 Thanks For Viewing My Profile:
-<img src="https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif" alt="Snake animation" />
+<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Snake animation" />
