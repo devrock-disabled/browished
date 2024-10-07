@@ -62,5 +62,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=browished&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-### 🐍 Snake eating my contributions:
+### 🌠 Thanks For Viewing My Profile:
 <img src="https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif" alt="Snake animation" />
