@@ -26,4 +26,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=browished&show_icons=true&locale=en" alt="browished" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=browished&" alt="browished" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=browished&show_icons=true&locale=en&layout=compact" alt="browished" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=browished" alt="browished" /></a></p>
