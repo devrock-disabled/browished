@@ -53,11 +53,14 @@
 ### 📈 GitHub Stats:
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=browished&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=browished&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="GitHub Stats" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=browished" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=browished&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=browished&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=browished&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+
+### 🐍 Snake eating my contributions:
+<img src="https://raw.githubusercontent.com/browished/browished/output/snake.svg" alt="Snake animation" />
