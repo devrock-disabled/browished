@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is devrock, and I'm a passionate backend developer from India</h2>
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Anime GIF" />
-![Profile Views](https://komarev.com/ghpvc/?username=browished&label=Profile%20Views&color=brightgreen&style=flat-square)
+
 
 ### 🚀 Languages and Tools I Use:
 
@@ -38,15 +38,17 @@
 
 ### ✒️ Recent Posts:
 - [Rock Cloner](https://github.com/devrock07/rock-cloner)
-
+  
 ### 📈 GitHub Stats:
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=browished&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=browished&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="GitHub Stats" />
+  <img src="https://komarev.com/ghpvc/?username=browished&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=browished&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=browished&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="/mnt/data/{23ED39EF-30EE-4E4C-875C-7F0BBFD02B23}.png" height="150" alt="Stats Graphic" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=browished&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=browished&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
