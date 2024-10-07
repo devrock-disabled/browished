@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">I am Devrock, a skilled web and backend developer.</h2>
 
 ###
 
@@ -10,9 +10,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+<img align="right" height="200" src="https://cdn.discordapp.com/attachments/1261962174281289779/1292830160390983774/demon-sleyar.gif?ex=67052969&is=6703d7e9&hm=8f43866284fa968cc6e96710cc465ce88e5f31cdc33ff5a16f03bf8f67a310e2&"  />
 
 ###
 
@@ -50,7 +48,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=browished.browished&left_color=aliceblue&right_color=aliceblue"  />
+  <img src="https://profile-counter.glitch.me/browished/count.svg?"  />
 </div>
 
 ###
