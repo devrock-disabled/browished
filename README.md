@@ -39,16 +39,3 @@
 ### ✒️ Recent Posts:
 - [Rock Cloner](https://github.com/devrock07/rock-cloner)
   
-### 📈 GitHub Stats:
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=browished&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="GitHub Stats" />
-  <img src="https://komarev.com/ghpvc/?username=browished&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=browished&theme=dracula&hide_border=true" alt="GitHub Streak" />
-  <img src="/mnt/data/{23ED39EF-30EE-4E4C-875C-7F0BBFD02B23}.png" height="150" alt="Stats Graphic" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=browished&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
