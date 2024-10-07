@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋! My name is devrock, and I'm a passionate backend developer from India</h2>
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Anime GIF" />
+![Profile Views](https://komarev.com/ghpvc/?username=browished&label=Profile%20Views&color=brightgreen&style=flat-square)
 
 ### 🚀 Languages and Tools I Use:
 
